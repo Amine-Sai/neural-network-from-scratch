@@ -1,4 +1,4 @@
-<h1> Neural Networks from Scratch - My Learning Attempt</h1>
+<h1> Neural Networks from Scratch - a mini-project to get a deeper understanding of how nn work</h1>
 
 <p>
   This project is a hands-on implementation of a basic neural network, built entirely with <code>NumPy</code>, and trained on the classic spiral dataset. My goal is to better understand how neural networks work under the hood by writing all key components myself — no high-level frameworks like TensorFlow or PyTorch.
